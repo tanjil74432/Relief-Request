@@ -16,3 +16,4 @@ npm install
 npm run dev
 ```
 Open `http://localhost:3000` for the victim form, and `http://localhost:3000/rescuer` for the rescuer dashboard.
+live demo :https://relief-request.vercel.app/
